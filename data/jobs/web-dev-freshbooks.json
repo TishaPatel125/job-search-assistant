@@ -1,0 +1,39 @@
+{
+  "job_title": "Web Developer",
+  "company_name": "FreshBooks",
+  "location": "Toronto, ON",
+  "remote_status": "remote",
+  "posting_age_days": 5,
+  "required_skills": [
+    "React",
+    "Python",
+    "PostgreSQL",
+    "JavaScript",
+    "HTML/CSS",
+    "Git",
+    "Docker",
+    "Flask",
+    "REST APIs"
+  ],
+  "preferred_skills": [],
+  "experience_level": "Entry to Mid-level",
+  "years_experience": null,
+  "education_requirements": "Bachelor's degree or Diploma in Computer Science, Software Engineering, or related field.",
+  "salary_range": null,
+  "key_responsibilities": [
+    "Develop new web features",
+    "Maintain existing codebase",
+    "Optimize database schemas",
+    "Collaborate with product managers",
+    "Write tests for robust code",
+    "Ensure cross-browser compatibility"
+  ],
+  "company_research": {
+    "company_size": null,
+    "industry": "cloud-based accounting software",
+    "recent_news": [],
+    "culture_signals": [],
+    "summary": "FreshBooks is a cloud-based accounting software service designed for small and medium-sized businesses."
+  },
+  "source_file": "web-dev-freshbooks.pdf"
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Tishaben Patel",
+  "hard_skills": [
+    "Python",
+    "JavaScript",
+    "Node.js",
+    "React",
+    "HTML/CSS",
+    "SQL",
+    "Git",
+    "Docker",
+    "REST APIs",
+    "AWS basics"
+  ],
+  "soft_skills": [],
+  "work_experience": [
+    {
+      "title": "Web Developer Intern",
+      "company": "TechNova Solutions",
+      "duration": "May 2025 - August 2025",
+      "responsibilities": [
+        "Assisted in developing responsive frontend interfaces using React and HTML/CSS.",
+        "Collaborated with senior developers to design and implement RESTful APIs using Node.js.",
+        "Participated in daily stand-ups and agile development processes."
+      ],
+      "achievements": []
+    }
+  ],
+  "education": [
+    {
+      "degree": "Advanced Diploma in Computer Programming & Analysis",
+      "institution": "Seneca Polytechnic",
+      "graduation_date": "December 2026",
+      "relevant_coursework": []
+    }
+  ],
+  "certifications": [
+    "AWS Certified Cloud Practitioner (In Progress)"
+  ],
+  "projects": [
+    {
+      "name": "E-Commerce Web Application",
+      "description": "Developed a full-stack e-commerce site using React, Node.js, and PostgreSQL. Implemented user authentication and cart functionality.",
+      "technologies": [
+        "React",
+        "Node.js",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "Sales",
+      "description": "Created a Python script using Pandas and Matplotlib to analyze and visualize sales data from a CSV file.",
+      "technologies": [
+        "Python",
+        "Pandas",
+        "Matplotlib"
+      ]
+    },
+    {
+      "name": "AI Cu",
+      "description": "Built a simple conversational AI chatbot integrating with OpenAI API, deployed using Docker.",
+      "technologies": [
+        "OpenAI API",
+        "Docker"
+      ]
+    }
+  ],
+  "keywords": []
+}

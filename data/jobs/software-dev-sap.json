@@ -1,0 +1,40 @@
+{
+  "job_title": "Software Developer",
+  "company_name": "SAP",
+  "location": "Waterloo, ON",
+  "remote_status": "hybrid",
+  "posting_age_days": 4,
+  "required_skills": [
+    "JavaScript",
+    "TypeScript",
+    "Node.js",
+    "React",
+    "SQL",
+    "Git",
+    "Cloud Foundry",
+    "REST APIs",
+    "Agile"
+  ],
+  "preferred_skills": [],
+  "experience_level": "Entry to Mid-level",
+  "years_experience": null,
+  "education_requirements": "Bachelor's degree or Diploma in Computer Science, Software Engineering, or related field.",
+  "salary_range": "$65K-$85K",
+  "key_responsibilities": [
+    "Design and develop software modules",
+    "Ensure high code quality standards",
+    "Participate in SCRUM meetings",
+    "Collaborate globally",
+    "Write technical specifications",
+    "Debug and resolve complex issues",
+    "Optimize for enterprise scale"
+  ],
+  "company_research": {
+    "company_size": null,
+    "industry": "enterprise software and software-related services",
+    "recent_news": [],
+    "culture_signals": [],
+    "summary": "SAP is the world's leading provider of enterprise software and software-related services."
+  },
+  "source_file": "software-dev-sap.pdf"
+}

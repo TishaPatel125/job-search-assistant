@@ -1,0 +1,46 @@
+{
+  "job_title": "Backend Developer",
+  "company_name": "Amazon",
+  "location": "Vancouver, BC",
+  "remote_status": "onsite",
+  "posting_age_days": 2,
+  "required_skills": [
+    "Python",
+    "AWS",
+    "Java",
+    "SQL",
+    "NoSQL",
+    "Microservices",
+    "Linux",
+    "Docker",
+    "Kubernetes",
+    "System Design"
+  ],
+  "preferred_skills": [],
+  "experience_level": "Entry to Mid-level",
+  "years_experience": null,
+  "education_requirements": "Bachelor's degree or Diploma in Computer Science, Software Engineering, or related field.",
+  "salary_range": "$80K-$100K",
+  "key_responsibilities": [
+    "Design robust backend services",
+    "Optimize database queries",
+    "Deploy applications on AWS",
+    "Monitor system performance",
+    "Ensure data security",
+    "Collaborate with frontend developers",
+    "Participate in system architecture planning"
+  ],
+  "company_research": {
+    "company_size": null,
+    "industry": null,
+    "recent_news": [],
+    "culture_signals": [
+      "customer obsession rather than competitor focus",
+      "passion for invention",
+      "commitment to operational excellence",
+      "long-term thinking"
+    ],
+    "summary": "Amazon is guided by four principles: customer obsession rather than competitor focus, passion for invention, commitment to operational excellence, and long-term thinking."
+  },
+  "source_file": "backend-dev-amazon.pdf"
+}

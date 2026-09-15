@@ -1,0 +1,37 @@
+{
+  "job_title": "Junior Developer",
+  "company_name": "TELUS",
+  "location": "Calgary, AB",
+  "remote_status": "hybrid",
+  "posting_age_days": 10,
+  "required_skills": [
+    "JavaScript",
+    "Python",
+    "Docker",
+    "Git",
+    "Linux",
+    "Bash scripting",
+    "SQL",
+    "API Integration"
+  ],
+  "preferred_skills": [],
+  "experience_level": "Entry to Mid-level",
+  "years_experience": null,
+  "education_requirements": "Bachelor's degree or Diploma in Computer Science, Software Engineering, or related field.",
+  "salary_range": "$55K-$65K",
+  "key_responsibilities": [
+    "Support software development lifecycle",
+    "Write internal automation scripts",
+    "Assist in application deployment",
+    "Debug production issues",
+    "Document system configurations"
+  ],
+  "company_research": {
+    "company_size": null,
+    "industry": "communications and information technology",
+    "recent_news": [],
+    "culture_signals": [],
+    "summary": "TELUS is a dynamic, world-leading communications and information technology company."
+  },
+  "source_file": "junior-dev-telus.pdf"
+}

@@ -1,0 +1,40 @@
+{
+  "job_title": "Full Stack Developer",
+  "company_name": "Wealthsimple",
+  "location": "Toronto, ON",
+  "remote_status": "remote",
+  "posting_age_days": 1,
+  "required_skills": [
+    "React",
+    "Ruby",
+    "GraphQL",
+    "PostgreSQL",
+    "TypeScript",
+    "Redis",
+    "Docker",
+    "AWS",
+    "Jest"
+  ],
+  "preferred_skills": [],
+  "experience_level": "Entry to Mid-level",
+  "years_experience": null,
+  "education_requirements": "Bachelor's degree or Diploma in Computer Science, Software Engineering, or related field.",
+  "salary_range": "$70K-$90K",
+  "key_responsibilities": [
+    "Build financial technology products",
+    "Implement GraphQL APIs",
+    "Create reusable React components",
+    "Ensure application security",
+    "Improve application performance",
+    "Collaborate with design and product teams",
+    "Write comprehensive test suites"
+  ],
+  "company_research": {
+    "company_size": null,
+    "industry": null,
+    "recent_news": [],
+    "culture_signals": [],
+    "summary": "Wealthsimple is on a mission to help everyone achieve financial freedom, no matter who they are or how much they have."
+  },
+  "source_file": "fullstack-dev-wealthsimple.pdf"
+}

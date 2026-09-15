@@ -1,0 +1,41 @@
+{
+  "job_title": "Junior Full Stack Developer",
+  "company_name": "Shopify",
+  "location": "Ottawa, ON",
+  "remote_status": "remote",
+  "posting_age_days": 3,
+  "required_skills": [
+    "React",
+    "Node.js",
+    "Ruby",
+    "HTML/CSS",
+    "JavaScript",
+    "Git",
+    "REST APIs",
+    "SQL",
+    "Docker",
+    "GraphQL"
+  ],
+  "preferred_skills": [],
+  "experience_level": "Entry to Mid-level",
+  "years_experience": null,
+  "education_requirements": "Bachelor's degree or Diploma in Computer Science, Software Engineering, or related field.",
+  "salary_range": "$65K-$80K",
+  "key_responsibilities": [
+    "Develop and maintain web applications",
+    "Write clean, scalable code",
+    "Collaborate with cross-functional teams",
+    "Participate in code reviews",
+    "Troubleshoot and debug issues",
+    "Implement UI components",
+    "Optimize applications for maximum speed"
+  ],
+  "company_research": {
+    "company_size": null,
+    "industry": null,
+    "recent_news": [],
+    "culture_signals": [],
+    "summary": "Shopify is a leading global commerce company, providing trusted tools to start, grow, market, and manage a retail business of any size."
+  },
+  "source_file": "junior-fullstack-shopify.pdf"
+}

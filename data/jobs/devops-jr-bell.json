@@ -1,0 +1,40 @@
+{
+  "job_title": "Junior DevOps Engineer",
+  "company_name": "Bell Canada",
+  "location": "Montreal, QC",
+  "remote_status": "onsite",
+  "posting_age_days": 8,
+  "required_skills": [
+    "Docker",
+    "Kubernetes",
+    "AWS",
+    "Linux",
+    "CI/CD",
+    "Jenkins",
+    "Git",
+    "Python",
+    "Bash",
+    "Terraform"
+  ],
+  "preferred_skills": [],
+  "experience_level": "Entry to Mid-level",
+  "years_experience": null,
+  "education_requirements": "Bachelor's degree or Diploma in Computer Science, Software Engineering, or related field.",
+  "salary_range": "$60K-$75K",
+  "key_responsibilities": [
+    "Maintain CI/CD pipelines",
+    "Manage containerized applications",
+    "Monitor system health",
+    "Automate infrastructure deployment",
+    "Assist in cloud migration",
+    "Provide technical support"
+  ],
+  "company_research": {
+    "company_size": null,
+    "industry": "communications",
+    "recent_news": [],
+    "culture_signals": [],
+    "summary": "Bell is Canada's largest communications company, providing consumers and business customers with solutions to all their communications needs."
+  },
+  "source_file": "devops-jr-bell.pdf"
+}

@@ -1,0 +1,40 @@
+{
+  "job_title": "Frontend Developer",
+  "company_name": "RBC",
+  "location": "Toronto, ON",
+  "remote_status": "hybrid",
+  "posting_age_days": 7,
+  "required_skills": [
+    "React",
+    "TypeScript",
+    "CSS",
+    "JavaScript",
+    "HTML",
+    "Redux",
+    "Jest",
+    "Git",
+    "Responsive Design",
+    "Web Accessibility (WCAG)"
+  ],
+  "preferred_skills": [],
+  "experience_level": "Entry to Mid-level",
+  "years_experience": null,
+  "education_requirements": "Bachelor's degree or Diploma in Computer Science, Software Engineering, or related field.",
+  "salary_range": "$60K-$75K",
+  "key_responsibilities": [
+    "Build responsive user interfaces",
+    "Work closely with UX/UI designers",
+    "Ensure high performance of applications",
+    "Write unit and integration tests",
+    "Participate in agile ceremonies",
+    "Maintain code quality"
+  ],
+  "company_research": {
+    "company_size": null,
+    "industry": null,
+    "recent_news": [],
+    "culture_signals": [],
+    "summary": "Royal Bank of Canada is a global financial institution with a purpose-driven, principles-led approach to delivering leading performance."
+  },
+  "source_file": "frontend-dev-rbc.pdf"
+}
