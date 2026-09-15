@@ -123,6 +123,11 @@ with tab1:
                         st.write("🎯 Calculating fit score...")
                         fit = assess_fit(posting, data["resume"], data["market"])
                         
+                        st.write("💾 Saving to database...")
+                        from src.db import insert_job, init_db, get_all_jobs
+                        init_db()
+                        insert_job(posting)
+                        
                         st.write("📝 Generating final report...")
                         generate_application_report(posting, data["resume"], data["market"], data["gap"], legitimacy, fit)
                         
@@ -135,6 +140,14 @@ with tab1:
                             with open(html_path, 'r', encoding='utf-8') as f:
                                 html_content = f.read()
                             st.components.v1.html(html_content, height=800, scrolling=True)
+                            
+                        # Show database contents
+                        st.divider()
+                        st.subheader("🗄️ Database Records")
+                        jobs = get_all_jobs()
+                        st.write(f"Total jobs saved in SQL Database: {len(jobs)}")
+                        for j in jobs:
+                            st.caption(f"- {j.job_title} at {j.company_name} ({j.location})")
                         
                     except Exception as e:
                         status.update(label="An error occurred", state="error")
